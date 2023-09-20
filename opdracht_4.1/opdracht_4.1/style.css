@@ -1,6 +1,6 @@
 h1{
     font-size: 24px;
-    color: blue;
+    color: red;
     font-weight: bold;
     font-style: oblique;
 }
@@ -20,8 +20,25 @@ p{
 
 .eerste {
     font-weight: bold;
+    color: white;
 }
 a{
     color:#8A2BE2;
     text-decoration: none;
+}
+header{
+    height: 34vh;
+    background-image: url(img/background1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    width: 50vw;
+}
+article{
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: green;
+    border-width: 3px 5px 3px 3px;
 }
