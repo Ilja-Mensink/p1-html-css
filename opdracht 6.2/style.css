@@ -1,0 +1,26 @@
+.vierkanten{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    flex-direction: row-reverse;
+}
+.vierkant_1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.vierkant_2{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.vierkant_3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.vierkant_4{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
