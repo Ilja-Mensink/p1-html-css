@@ -1,0 +1,18 @@
+.navigatie{
+    display: flex;
+}
+.logo{
+    display: flex;
+    width: 25vw;
+    justify-content: center;
+}
+.vier{
+    display: flex;
+    width: 50vw;
+    justify-content: space-around;
+}
+.login{
+    display: flex;
+    width: 25vw;
+    justify-content: center;
+}
